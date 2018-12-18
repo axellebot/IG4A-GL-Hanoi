@@ -1,4 +1,4 @@
-# hanoi
+# IG4A-GL-hanoi
 
 Sources du projet Hanoi...
 
