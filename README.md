@@ -1,5 +1,4 @@
-# IG4A-GL-hanoi
-
+# hanoi 2018
 Sources du projet Hanoi...
 
 Le sujet du projet est donné dans : Projet_Hanoi.tps.papier.pdf
